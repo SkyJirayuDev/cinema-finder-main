@@ -1,3 +1,13 @@
+# Datacom Software Development Completion Certificate
+
+This project is part of Datacom's Software Development simulation on Forage. I just completed Datacom's Software Development on Forage. In the simulation I:
+
+* Completed a simulation focused on how the software development team at Datacom approaches their work
+* Reviewed a web application and planned for future improvements
+* Identified the root cause of bugs and implemented a fix to improve the application
+
+Check out the simulation here: [https://www.theforage.com/simulations/datacom/software-development-l47g](https://www.theforage.com/simulations/datacom/software-development-l47g)
+
 # Cinema Finder
 
 Interactive React app with Leaflet & MapLibre maps to locate cinemas by franchise and area, featuring click-to-zoom markers and pop-up details.
