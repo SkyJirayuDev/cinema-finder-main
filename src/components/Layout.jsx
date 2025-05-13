@@ -1,4 +1,3 @@
-// src/components/Layout.jsx
 import React from 'react'
 import { Box } from '@mui/material'
 import TopBar from './TopBar'
@@ -18,19 +17,21 @@ const Layout = ({ sidebar, main }) => (
     <Box sx={{
       flex: 1,
       display: 'flex',
+      flexDirection: { xs: 'column', md: 'row' },
       overflow: 'hidden'
     }}>
       <Box sx={{
         flex: 1,
-        height: '100%',
+        height: { xs: '50%', md: '100%' },
         overflow: 'auto'
       }}>
         {main}
       </Box>
       <Box sx={{
-        width: '400px',
-        height: '100%',
-        overflowY: 'auto'
+        width: { xs: '100%', md: '400px' },
+        height: { xs: '50%', md: '100%' },
+        overflowY: 'auto',
+        borderLeft: { xs: 'none', md: '1px solid #ccc' }
       }}>
         {sidebar}
       </Box>
