@@ -4,7 +4,7 @@ This project is part of the **Datacom Software Development Virtual Experience Pr
 
 ## 🌐 Live Preview
 
-Currently running locally – deploy link coming soon.
+[View the project here](https://skyjirayudev.github.io/cinema-finder-main)
 
 ## 📸 Preview Screenshot
 
@@ -69,6 +69,6 @@ From this project, I practiced:
 
 Developed by **SkyJirayuDev**
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/jirayu-saisuwan-603a44316/)  
-📜 [View Completion Certificate – Datacom Forage Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/L3NcyCoAjLno9d3T9_gCW7Xki5Y3vNpBmnn_7q9xfN9WibrHpdbSp_1746191115154_completion_certificate.pdf)  
-🎓 Completed the [Datacom Software Development Simulation on Forage](https://www.theforage.com/simulations/datacom/software-development-l47g)
+- [LinkedIn Profile](https://www.linkedin.com/in/jirayu-saisuwan-603a44316/)  
+- [View Completion Certificate – Datacom Forage Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/L3NcyCoAjLno9d3T9_gCW7Xki5Y3vNpBmnn_7q9xfN9WibrHpdbSp_1746191115154_completion_certificate.pdf)  
+- Completed the [Datacom Software Development Simulation on Forage](https://www.theforage.com/simulations/datacom/software-development-l47g)

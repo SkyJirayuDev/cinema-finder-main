@@ -2,6 +2,7 @@
   "name": "cinema-finder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://skyjirayudev.github.io/cinema-finder-main",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
@@ -14,6 +15,7 @@
     "@turf/helpers": "^6.5.0",
     "@use-it/event-listener": "^0.1.7",
     "d3-format": "^3.1.0",
+    "gh-pages": "^6.3.0",
     "leaflet": "^1.9.3",
     "lodash": "^4.17.21",
     "mapbox-gl": "npm:empty-npm-package@1.0.0",
@@ -35,7 +37,9 @@
     "prebuild": "rm -rf build/",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "analyse": "cra-bundle-analyzer"
+    "analyse": "cra-bundle-analyzer",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
