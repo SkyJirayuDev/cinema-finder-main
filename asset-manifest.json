@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/cinema-finder-main/static/js/main.a9096323.js",
+    "main.js": "/cinema-finder-main/static/js/main.e84f0c82.js",
     "static/js/198.ca2bcf1f.chunk.js": "/cinema-finder-main/static/js/198.ca2bcf1f.chunk.js",
     "static/js/860.212edae7.chunk.js": "/cinema-finder-main/static/js/860.212edae7.chunk.js",
     "static/js/711.fd4941bc.chunk.js": "/cinema-finder-main/static/js/711.fd4941bc.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/Hoyts.svg": "/cinema-finder-main/static/media/Hoyts.30b8c36189f987a92a4e07df667c06d6.svg",
     "static/media/Event Cinemas.svg": "/cinema-finder-main/static/media/Event Cinemas.8d63e2105fb7b11558031e8f50fd9c9f.svg",
     "index.html": "/cinema-finder-main/index.html",
-    "main.a9096323.js.map": "/cinema-finder-main/static/js/main.a9096323.js.map",
+    "main.e84f0c82.js.map": "/cinema-finder-main/static/js/main.e84f0c82.js.map",
     "198.ca2bcf1f.chunk.js.map": "/cinema-finder-main/static/js/198.ca2bcf1f.chunk.js.map",
     "860.212edae7.chunk.js.map": "/cinema-finder-main/static/js/860.212edae7.chunk.js.map",
     "711.fd4941bc.chunk.js.map": "/cinema-finder-main/static/js/711.fd4941bc.chunk.js.map",
@@ -37,6 +37,6 @@
     "538.12143a7b.chunk.js.map": "/cinema-finder-main/static/js/538.12143a7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a9096323.js"
+    "static/js/main.e84f0c82.js"
   ]
 }
