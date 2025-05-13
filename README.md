@@ -1,43 +1,50 @@
-# Datacom Software Development Completion Certificate
+# 🎬 Cinema Finder – Interactive Cinema Map Application
 
-This project is part of Datacom's Software Development simulation on Forage. I just completed Datacom's Software Development on Forage. In the simulation I:
+This project is part of the **Datacom Software Development Virtual Experience Program** on [Forage](https://www.theforage.com/simulations/datacom/software-development-l47g). It showcases an interactive React-based application for locating cinemas, integrating map technologies and user-friendly UI features.
 
-* Completed a simulation focused on how the software development team at Datacom approaches their work
-* Reviewed a web application and planned for future improvements
-* Identified the root cause of bugs and implemented a fix to improve the application
+## 🌐 Live Preview
 
-Check out the simulation here: [https://www.theforage.com/simulations/datacom/software-development-l47g](https://www.theforage.com/simulations/datacom/software-development-l47g)
+Currently running locally – deploy link coming soon.
 
-View my completion certificate: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/L3NcyCoAjLno9d3T9_gCW7Xki5Y3vNpBmnn_7q9xfN9WibrHpdbSp_1746191115154_completion_certificate.pdf
+## 📸 Preview Screenshot
 
-My LinkedIn: https://www.linkedin.com/in/jirayu-saisuwan-603a44316/
+![Preview Cinema Finder](/public/cinema-finder.png)
 
-# Cinema Finder
+## 📌 Features
 
-Interactive React app with Leaflet & MapLibre maps to locate cinemas by franchise and area, featuring click-to-zoom markers and pop-up details.
+- **Interactive Map** with toggle between Leaflet and MapLibre
+- **Click-to-Zoom Markers** for cinema details
+- **Franchise & Country Filters** (e.g., BCC, Event / AU, NZ)
+- **Nearby Cinemas** based on user location
+- **Responsive Two-Column Layout** with map and cinema list
 
-## Getting Started
+## 🔧 Tech Stack
 
-### Prerequisites
+- **React** – Front-end framework  
+- **Leaflet** / **MapLibre** – Interactive maps  
+- **React Router DOM** – Page routing  
+- **Material-UI (MUI)** – UI components  
+- **Notistack** – Snackbar notifications  
 
-* [Node.js](https://nodejs.org/en/) (>=14.x)
-* [Yarn](https://yarnpkg.com/getting-started/install)
+## 🚀 Getting Started
 
-### Installation
+To run this project locally:
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/your-username/cinema-finder.git
+
+# 2. Navigate to the project directory
 cd cinema-finder
+
+# 3. Install dependencies
 yarn install
-```
 
-### Running Locally
-
-```bash
+# 4. Start the development server
 yarn start
 ```
 
-Runs the app in development mode at `http://localhost:3000`. The page will reload on code changes.
+Then visit `http://localhost:3000` in your browser.
 
 ### Building for Production
 
@@ -45,30 +52,23 @@ Runs the app in development mode at `http://localhost:3000`. The page will reloa
 yarn build
 ```
 
-Generates optimized static files in the `build/` directory.
+Builds the app into the `build/` folder.
 
-## Features
+## 🎓 Learning Outcomes
 
-* **Interactive Map**
-  Toggle between Leaflet and MapLibre renderers.
-* **Click-to-Zoom Markers**
-  Click a cinema marker to fly to its location and open a detail popup.
-* **Franchise & Country Filter**
-  Browse by major cinema chains (e.g. BCC, Event) and country (AU, NZ).
-* **Nearby Cinemas**
-  View cinemas around your current location.
-* **Responsive Layout**
-  Two-column design: map on the left, cinema list on the right (full-height).
+From this project, I practiced:
 
-## Key Dependencies
+- Debugging and fixing application issues  
+- Planning and implementing front-end improvements  
+- Using mapping libraries with React  
+- Filtering and displaying geolocation data  
+- Developing responsive UIs with MUI  
+- Following modern development workflows with Yarn  
 
-* **React**
-* **react-leaflet** / **leaflet**
-* **react-map-gl** / **maplibre-gl**
-* **@mui/material** (Material-UI)
-* **react-router-dom**
-* **notistack** (snackbars)
+## 👨‍💻 About the Developer
 
-## License
+Developed by **SkyJirayuDev**
 
-This project is licensed under the MIT License.
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/jirayu-saisuwan-603a44316/)  
+📜 [View Completion Certificate – Datacom Forage Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/L3NcyCoAjLno9d3T9_gCW7Xki5Y3vNpBmnn_7q9xfN9WibrHpdbSp_1746191115154_completion_certificate.pdf)  
+🎓 Completed the [Datacom Software Development Simulation on Forage](https://www.theforage.com/simulations/datacom/software-development-l47g)
